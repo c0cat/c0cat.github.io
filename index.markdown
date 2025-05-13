@@ -5,9 +5,9 @@
 layout: default
 ---
 
-# This website is under construction.
-c_cat was here is an art project. This website is still under development
+# Hello World!
+c_cat was here is an art project. This website is still under construction
 
-## In the meantime you can follow me on [Instagram ](https://www.instagram.com/c_cat.was_here/).
+## In the meantime you can follow me on [Instagram](https://www.instagram.com/c_cat.was_here/).
 
 
