@@ -8,7 +8,7 @@ show_title: false
 ---
 
 ## Hello World!
-Hey there c_cat is an art project that aims to document the life of a queer person during the end of time. And to create    rememberances of Art, Nature and Technology both in the physical and digital space.
+Hey there, c_cat was here is an art project that aims to document the life of a queer person during the end of time. And to create    rememberances of Art, Nature and Technology both in the physical and digital space.
 
 ## Upcoming Projects
 Expect stuff like: recepies, media reflections, mild vandalism, stickers with QR codes and coding projects. 
