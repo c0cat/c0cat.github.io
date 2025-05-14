@@ -1,0 +1,36 @@
+---
+---
+
+$primary-color: #990095;
+$secondary-color: #43005A;
+$accent-color: #E600BF;
+$text-color: 000000;
+
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: $primary-color;
+$header-bg-color-secondary: $secondary-color;
+
+// Text
+$section-headings-color: $primary-color;
+$body-text-color: #ffffff;
+$body-link-color: #ffffff;
+$blockquote-text-color: #819198 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #567482 !default;
+
+// Borders
+$border-color: #dce6f0 !default;
+$table-border-color: #e9ebec !default;
+$hr-border-color: #eff0f1 !default;
+
+
+body {
+  background-color: #000000;
+}
+
+
+@import 'jekyll-theme-cayman';
